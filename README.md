@@ -1,2 +1,2 @@
 # RPS-Multiplayer
-firebase 
+This project was focused on firebase and being able to use multiplayer. 
